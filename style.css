@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+/*html,
+body {
+  background-color: black;
+} */
+
+.bg-grey {
+  background-color: #eff3f7 !important;
+}
